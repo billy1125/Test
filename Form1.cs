@@ -16,5 +16,7 @@ namespace Test
         {
             InitializeComponent();
         }
+
+        int apple = 10;
     }
 }
